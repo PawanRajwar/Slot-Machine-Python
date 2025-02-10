@@ -1,2 +1,2 @@
 # Slot-Machine-Python
-This the Slot Machine Game made in python.
+This the text based Slot Machine Game made in python.
